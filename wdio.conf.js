@@ -21,7 +21,8 @@ exports.config = {
     // will be called from there.
     //
     specs: [
-        './test/specs/**/*.js'
+        //'../test/specs/flipkart-flow.js'
+        'E:/Automation-Assessment-2/webdriverio_assessment/test/ajay/specs/flipkart-flow.js'
     ],
     // Patterns to exclude.
     exclude: [
