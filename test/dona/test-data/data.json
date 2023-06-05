@@ -1,0 +1,7 @@
+{
+    "flipkartUrl": "https://www.flipkart.com/",
+    "field": ["0-departcity","0-arrivalcity", "0-travellerclasscount"],
+    "airport": ["Kochi, COK - Cochin International Airport, India","Dubai, DXB - Dubai International Airport, United Arab Emirates"],
+    "number": ["[1]", "[2]", "[3]"],
+    "choice": ["Air India", "Reset All"]
+}
