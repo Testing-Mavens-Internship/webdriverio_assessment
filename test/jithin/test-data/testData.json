@@ -1,0 +1,16 @@
+{
+    "url" : "https://www.flipkart.com/",
+    "serviceName" : "Travel",
+    "from" : "Kochi",
+    "fromAirportCode" : "COK",
+    "to" : "Dubai",
+    "toAirportCode" : "DXB",
+    "monthAndYear": "June 2023",
+    "day" : "9",
+    "adultsCount" : "2",
+    "childCount" : "0",
+    "infantCount" : "1",
+    "travelClass" : "Business",
+    "filterByTime"  : "Afternoon",
+    "airLines" : "Air India"
+}
